@@ -16,4 +16,5 @@ group :test, :development do
   gem 'capybara'
   gem 'rack'
   gem 'rubocop', '1.20'
+  gem 'pg'
 end
